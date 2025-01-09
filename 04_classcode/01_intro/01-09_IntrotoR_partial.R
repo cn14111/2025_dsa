@@ -92,3 +92,9 @@
 # play with theme_ , explore the available options, choose one different from the one in class
 # Export your new version saving it as "plot_a1_LASTNAME.png"
 # Upload your new plot to GitHub under issue "Assignment #1"
+
+
+
+
+
+
